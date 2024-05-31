@@ -1,0 +1,15 @@
+-How to insert a website and access its elements
+
+-How to tell when an ad or element is on the user screen
+
+-How to track where a user has been at before they clicked a link
+
+-Distinguish webpage elements to tell a user whats an add
+
+-What is an UTM 
+
+-snippets
+
+-pixels
+
+-dataset keyword
